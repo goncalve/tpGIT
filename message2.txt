@@ -1,0 +1,2 @@
+Ce fichier message2 correspond à ce qui est attendu dans le point 2 de l'exo dépôt distant.
+Test pour git bash.
